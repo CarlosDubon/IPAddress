@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IP Address</string>
+    <string name="text_main">IP Address / Subnet Mask</string>
+    <string name="text_go">Go</string>
+    <string name="text_broadcast">BROADCAST</string>
+    <string name="text_net_id">NET ID</string>
+    <string name="text_class">CLASS</string>
+    <string name="text_network_part">NETWORK PART</string>
+    <string name="text_host_part">HOST PART</string>
+    <string name="text_last_ip">LAST IP</string>
+    <string name="text_first_ip">FIRST IP</string>
+</resources>
