@@ -9,4 +9,5 @@
     <string name="text_host_part">HOST PART</string>
     <string name="text_last_ip">LAST IP</string>
     <string name="text_first_ip">FIRST IP</string>
+    <string name="text_cantidad_de_redes">NETWORKS</string>
 </resources>
